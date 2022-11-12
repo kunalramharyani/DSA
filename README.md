@@ -1,61 +1,61 @@
 # Data Structures & Algorithms
 
-Commonly (and not so commomly) used data structures and algorithms implemented using javascript.
+Commonly (and not so commomly) used data structures and algorithms implemented using JavaScript.
 
 ## Searching
 
-### Binary Search
+### [Binary Search](https://github.com/kunalramharyani/DSA/blob/main/Search/binarySearch.js)
 
-### Linear Search
+### [Linear Search](https://github.com/kunalramharyani/DSA/blob/main/Search/linearSearch.js)
 
 ## Sorting
 
-### Bubble Sort
+### [Bubble Sort](https://github.com/kunalramharyani/DSA/blob/main/Sorting/bubbleSort.js)
 
-### Insertion Sort
+### [Insertion Sort](https://github.com/kunalramharyani/DSA/blob/main/Sorting/insertionSort.js)
 
-### Merge Sort
+### [Merge Sort](https://github.com/kunalramharyani/DSA/blob/main/Sorting/mergeSort.js)
 
-### Quick Sort
+### [Quick Sort](https://github.com/kunalramharyani/DSA/blob/main/Sorting/quickSort.js)
 
-### Radix Sort
+### [Radix Sort](https://github.com/kunalramharyani/DSA/blob/main/Sorting/radixSort.js)
 
-### Selection Sort
+### [Selection Sort](https://github.com/kunalramharyani/DSA/blob/main/Sorting/selectionSort.js)
 
 ## Linked Lists
 
-### Singly Linked List
+### [Singly Linked List](https://github.com/kunalramharyani/DSA/blob/main/Linked%20List/singlyLinkedList.js)
 
-### Doubly Linked List
+### [Doubly Linked List](https://github.com/kunalramharyani/DSA/blob/main/Linked%20List/doublyLinkedList.js)
 
 ## Abstract Data Structures
 
-### Stacks
+### [Stacks](https://github.com/kunalramharyani/DSA/blob/main/Abstract%20Data%20Structures/stack.js)
 
-### Queues
+### [Queues](https://github.com/kunalramharyani/DSA/blob/main/Abstract%20Data%20Structures/queue.js)
 
 ## Tree Implementation & Traversal
 
-### Binary Tree
+### [Binary Tree](https://github.com/kunalramharyani/DSA/blob/main/Tree%20Traversal/binarySearchTree.js)
 
-### Tree Depth First Search
+### [Tree Depth First Search](https://github.com/kunalramharyani/DSA/blob/main/Tree%20Traversal/dfs.js)
 
-### Tree Breadth First Search
+### [Tree Breadth First Search](https://github.com/kunalramharyani/DSA/blob/main/Tree%20Traversal/bfs.js)
 
 ## Graph Implementation & Traversal
 
-### Graph
+### [Graph](https://github.com/kunalramharyani/DSA/blob/main/Graph%20Traversal/graph.js)
 
-### Graph Depth First Search
+### [Graph Depth First Search](https://github.com/kunalramharyani/DSA/blob/main/Graph%20Traversal/dfs.js)
 
-### Graph Breadth First Search
+### [Graph Breadth First Search](https://github.com/kunalramharyani/DSA/blob/main/Graph%20Traversal/bfs.js)
 
 ## Hash Tables
 
-### Hash Table Implementation
+### [Hash Table Implementation](https://github.com/kunalramharyani/DSA/blob/main/Hash%20Tables/hash.js)
 
 ## Heaps
 
-### Max Binary Heap
+### [Max Binary Heap](https://github.com/kunalramharyani/DSA/blob/main/Heaps/maxBinaryHeap.js)
 
-### Priority Queue
+### [Priority Queue](https://github.com/kunalramharyani/DSA/blob/main/Heaps/priorityQueue.js)
